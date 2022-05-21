@@ -17,13 +17,12 @@ policy = {"d": "direct",
           "tg": "Telegram"
           }
 
-agg = (f"{x}(?!-)" for x in key_map.keys())
-pattern = re.compile(f'({"|".join(agg)})')
+pattern = re.compile(f'({"|".join(x for x in key_map)})(?=\s*?,)')
 drop_pattern = re.compile(',\s*no-resolve')
 
 
 def subrepl(matchobj):
-    return key_map.get(matchobj.group(0))
+    return key_map.get(matchobj.group(1))
 
 
 def wrap_sub(string):
