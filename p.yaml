@@ -81,6 +81,7 @@ payload:
 
   #技术与服务
   - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,binance.com
@@ -359,6 +360,7 @@ payload:
   - PROCESS-NAME,WINWORD.EXE
 
   - IP-CIDR,196.55.215.0/24,no-resolve
+  - IP-CIDR,164.52.93.0/24,no-resolve
 
   - GEOIP,US
   - GEOIP,TW
