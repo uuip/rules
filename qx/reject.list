@@ -70,7 +70,7 @@ host-suffix,allyes.com,reject
 host-suffix,amazon-adsystem.com,reject
 host-suffix,amplitude.com,reject
 host-suffix,anquan.org,reject
-host-suffix, app-measurement.com, reject
+host-suffix,app-measurement.com, reject
 host-suffix,appads.com,reject
 host-suffix,iadsdk.apple.com,reject
 host-suffix,applifier.com,reject

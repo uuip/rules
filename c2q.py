@@ -42,5 +42,5 @@ for f in Path('.').glob('*.yaml'):
     step3 = map(wrap_drop, step2)
     step4 = map(lambda x: f'{x},{policy.get(f.stem)}\n'.lower(), step3)
 
-    with open("qx" / f.with_suffix('.list'), 'w+', encoding='utf8') as qx:
+    with open("qx" / f.with_suffix('.list'), 'w+', encoding='utf8', newline='\n') as qx:
         qx.writelines(step4)
