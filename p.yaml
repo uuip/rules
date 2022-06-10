@@ -80,6 +80,8 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 
   #技术与服务
+  - DOMAIN-SUFFIX,moralis.io
+  - DOMAIN-SUFFIX,ankr.com
   - DOMAIN-SUFFIX,defibit.io
   - DOMAIN-SUFFIX,ninicoin.io
   - DOMAIN-SUFFIX,npmjs.org
