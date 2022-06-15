@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bscscan.com
+  - DOMAIN-SUFFIX,bnbchain.org
+  - DOMAIN-SUFFIX,nodereal.io
