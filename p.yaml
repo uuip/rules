@@ -80,15 +80,9 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 
   #技术与服务
-  - DOMAIN-SUFFIX,moralis.io
-  - DOMAIN-SUFFIX,ankr.com
-  - DOMAIN-SUFFIX,defibit.io
-  - DOMAIN-SUFFIX,ninicoin.io
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,jupyter.org
-  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,teambition.com
   - DOMAIN,download.sysinternals.com
@@ -98,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,angularjs.org
   - DOMAIN-SUFFIX,bitbucket.org
-  - DOMAIN-SUFFIX,bscscan.com
   - DOMAIN-SUFFIX,celeryq.dev
   - DOMAIN-SUFFIX,crummy.com
   - DOMAIN-SUFFIX,cython.org

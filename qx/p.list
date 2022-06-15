@@ -71,13 +71,9 @@ host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
-host-suffix,defibit.io,proxy
-host-suffix,ninicoin.io,proxy
 host-suffix,npmjs.org,proxy
-host-suffix,binance.org,proxy
 host-suffix,ethereum.org,proxy
 host-suffix,jupyter.org,proxy
-host-suffix,binance.com,proxy
 host-suffix,cookielaw.org,proxy
 host-suffix,teambition.com,proxy
 host,download.sysinternals.com,proxy
@@ -87,7 +83,6 @@ host,mozaws.net,proxy
 host-suffix,10minutemail.com,proxy
 host-suffix,angularjs.org,proxy
 host-suffix,bitbucket.org,proxy
-host-suffix,bscscan.com,proxy
 host-suffix,celeryq.dev,proxy
 host-suffix,crummy.com,proxy
 host-suffix,cython.org,proxy
