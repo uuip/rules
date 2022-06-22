@@ -71,6 +71,7 @@ host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
+host-suffix,moralis.io,proxy
 host-suffix,npmjs.org,proxy
 host-suffix,ethereum.org,proxy
 host-suffix,jupyter.org,proxy

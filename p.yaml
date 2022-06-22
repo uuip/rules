@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 
   #技术与服务
+  - DOMAIN-SUFFIX,moralis.io
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,jupyter.org
