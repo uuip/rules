@@ -178,6 +178,7 @@ payload:
   - DOMAIN-SUFFIX,solidfiles.com
 
   #ssr提供商
+  - DOMAIN-SUFFIX,flower.yt
   - DOMAIN-SUFFIX,guguex.com
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,nxtlnodes.com
