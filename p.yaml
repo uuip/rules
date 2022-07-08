@@ -14,6 +14,7 @@ payload:
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,readthedocs
 
   # Google
   - DOMAIN-SUFFIX,abc.xyz
@@ -80,7 +81,6 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 
   #技术与服务
-  - DOMAIN-SUFFIX,moralis.io
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,jupyter.org
@@ -122,11 +122,8 @@ payload:
   - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,plot.ly
   - DOMAIN-SUFFIX,plotly.com
-  - DOMAIN-SUFFIX,python-requests.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,readthedocs.io
-  - DOMAIN-SUFFIX,readthedocs.org
   - DOMAIN-SUFFIX,selenium.dev
   - DOMAIN-SUFFIX,shodan.io
   - DOMAIN-SUFFIX,sstatic.net
@@ -324,7 +321,7 @@ payload:
   - DOMAIN-SUFFIX,dns.twnic.tw
   - DOMAIN-SUFFIX,public.dns.iij.jp
 
- #图片 插件服务
+  #图片 插件服务
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,chatra.io
   - DOMAIN-SUFFIX,chuantupian.com
