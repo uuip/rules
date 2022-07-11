@@ -67,6 +67,7 @@ host-suffix,cdn.rawgit.com,proxy
 host-suffix,ghbtns.com,proxy
 host-suffix,gitbook.io,proxy
 host-suffix,gitbooks.io,proxy
+host-suffix,gitbook.com,proxy
 host-suffix,github.com,proxy
 host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy

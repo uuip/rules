@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,ghbtns.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
+  - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubapp.com
