@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,readthedocs
+  - DOMAIN-KEYWORD,rsload
 
   # Google
   - DOMAIN-SUFFIX,abc.xyz
@@ -222,7 +223,6 @@ payload:
   - DOMAIN-SUFFIX,proxifier.com
   - DOMAIN-SUFFIX,proxycap.com
   - DOMAIN-SUFFIX,rarlab.com
-  - DOMAIN-SUFFIX,rsload.net
   - DOMAIN-SUFFIX,softpedia-static.com
   - DOMAIN-SUFFIX,softpedia.com
   - DOMAIN-SUFFIX,sourceforge.net
