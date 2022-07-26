@@ -1,6 +1,10 @@
 payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,smtcdns.com
+  - DOMAIN-SUFFIX,gtimg.cn
+  - DOMAIN-SUFFIX,cdn-go.cn
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,youku.com
