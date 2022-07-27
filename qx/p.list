@@ -325,6 +325,7 @@ host-suffix,ultraimg.com,proxy
 host-suffix,wistia.com,proxy
 host-suffix,zdassets.com,proxy
 host-suffix,zendesk.com,proxy
+host-suffix,union.video.qq.com,proxy
 ip-cidr,196.55.215.0/24,proxy
 ip-cidr,164.52.93.0/24,proxy
 geoip,us,proxy
