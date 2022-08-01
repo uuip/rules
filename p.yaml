@@ -84,7 +84,6 @@ payload:
 
   #技术与服务
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,teambition.com
@@ -346,20 +345,6 @@ payload:
   - DOMAIN-SUFFIX,wistia.com
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,zendesk.com
-  - DOMAIN-SUFFIX,union.video.qq.com
-
-  - DOMAIN-SUFFIX,binance.org
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,bscscan.com
-  - DOMAIN-SUFFIX,bnbchain.org
-  - DOMAIN-SUFFIX,bnappzh.mobi
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-SUFFIX,moralis.io
-  - DOMAIN-SUFFIX,defibit.io
-  - DOMAIN-SUFFIX,ninicoin.io
-  - DOMAIN-SUFFIX,nodereal.io
 
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com

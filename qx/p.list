@@ -75,7 +75,6 @@ host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
 host-suffix,npmjs.org,proxy
-host-suffix,ethereum.org,proxy
 host-suffix,jupyter.org,proxy
 host-suffix,cookielaw.org,proxy
 host-suffix,teambition.com,proxy
@@ -321,19 +320,6 @@ host-suffix,ultraimg.com,proxy
 host-suffix,wistia.com,proxy
 host-suffix,zdassets.com,proxy
 host-suffix,zendesk.com,proxy
-host-suffix,union.video.qq.com,proxy
-host-suffix,binance.org,proxy
-host-suffix,binance.com,proxy
-host-suffix,bscscan.com,proxy
-host-suffix,bnbchain.org,proxy
-host-suffix,bnappzh.mobi,proxy
-host-suffix,bnbstatic.com,proxy
-host-suffix,binance.me,proxy
-host-suffix,binance.cloud,proxy
-host-suffix,moralis.io,proxy
-host-suffix,defibit.io,proxy
-host-suffix,ninicoin.io,proxy
-host-suffix,nodereal.io,proxy
 host-suffix,t.me,proxy
 host-suffix,tdesktop.com,proxy
 host-suffix,telegra.ph,proxy
