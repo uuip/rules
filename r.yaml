@@ -1,5 +1,2 @@
 payload:
-  - PROCESS-NAME,FNPLicensingService.exe
-#  - DOMAIN-SUFFIX,netsarang.com
-#  - DOMAIN-SUFFIX,netsarang.co.kr
   - DOMAIN,activate.navicat.com

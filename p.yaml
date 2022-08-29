@@ -83,14 +83,14 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 
   #技术与服务
-  - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,jupyter.org
-  - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,teambition.com
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,easylist.to
   - DOMAIN,mozaws.net
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,jupyter.org
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,teambition.com
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,angularjs.org
   - DOMAIN-SUFFIX,bitbucket.org
