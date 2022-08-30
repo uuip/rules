@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,xn--
   - DOMAIN-KEYWORD,gvt
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,facebook
@@ -144,7 +143,6 @@ payload:
   - DOMAIN-SUFFIX,yopmail.com
   - DOMAIN-SUFFIX,palletsprojects.com
   - DOMAIN-SUFFIX,pypa.io
-  - DOMAIN-SUFFIX,kraken.com
 
   #cdn
   - DOMAIN-SUFFIX,akamaihd.net
@@ -156,7 +154,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,fsdn.com
-  - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,netdna-ssl.com
   - DOMAIN-SUFFIX,sndcdn.com
@@ -181,7 +178,6 @@ payload:
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,nxtlnodes.com
   - DOMAIN-SUFFIX,maying.co
-  - DOMAIN-SUFFIX,relaynet.me
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
@@ -308,14 +304,6 @@ payload:
   - DOMAIN-SUFFIX,xjh.me
   - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,zaobao.com
-
-  # DNS
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN-SUFFIX,dns.google
-  - DOMAIN-SUFFIX,dns.quad9.net
-  - DOMAIN-SUFFIX,doh.dns.sb
-  - DOMAIN-SUFFIX,public.dns.iij.jp
-  - DOMAIN-SUFFIX,dns.twnic.tw
 
   #图片 插件服务
   - DOMAIN-SUFFIX,cdninstagram.com

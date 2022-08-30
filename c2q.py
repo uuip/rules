@@ -8,13 +8,12 @@ key_map = {"DOMAIN-KEYWORD": "host-keyword",
            "DOMAIN-SUFFIX": "host-suffix",
            "IP-CIDR": "ip-cidr",
            "IP-CIDR6": "ip6-cidr",
-           "GEOIP": "geoip"
-
+           "GEOIP": "geoip",
            }
 policy = {"d": "direct",
           "r": "reject",
           "p": "proxy",
-          "tg": "Telegram"
+          "us": "us",
           }
 
 pattern = re.compile(f'({"|".join(x for x in key_map)})(?=\s*?,)')

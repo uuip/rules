@@ -1,5 +1,4 @@
 host-keyword,google,proxy
-host-keyword,xn--,proxy
 host-keyword,gvt,proxy
 host-keyword,blogspot,proxy
 host-keyword,facebook,proxy
@@ -135,7 +134,6 @@ host-suffix,xlwings.org,proxy
 host-suffix,yopmail.com,proxy
 host-suffix,palletsprojects.com,proxy
 host-suffix,pypa.io,proxy
-host-suffix,kraken.com,proxy
 host-suffix,akamaihd.net,proxy
 host-suffix,bootstrapcdn.com,proxy
 host-suffix,cdn.jsdelivr.net,proxy
@@ -145,7 +143,6 @@ host-suffix,cloudflare.net,proxy
 host-suffix,cloudflareinsights.com,proxy
 host-suffix,fontawesome.com,proxy
 host-suffix,fsdn.com,proxy
-host-suffix,imgur.com,proxy
 host-suffix,jquery.com,proxy
 host-suffix,netdna-ssl.com,proxy
 host-suffix,sndcdn.com,proxy
@@ -166,7 +163,6 @@ host-suffix,guguex.com,proxy
 host-suffix,amysecure.com,proxy
 host-suffix,nxtlnodes.com,proxy
 host-suffix,maying.co,proxy
-host-suffix,relaynet.me,proxy
 host-suffix,duyaoss.com,proxy
 host-suffix,v2ray.com,proxy
 host-suffix,getlantern.org,proxy
@@ -287,12 +283,6 @@ host-suffix,wuyou.ca,proxy
 host-suffix,xjh.me,proxy
 host-suffix,xuite.net,proxy
 host-suffix,zaobao.com,proxy
-host-suffix,cloudflare-dns.com,proxy
-host-suffix,dns.google,proxy
-host-suffix,dns.quad9.net,proxy
-host-suffix,doh.dns.sb,proxy
-host-suffix,public.dns.iij.jp,proxy
-host-suffix,dns.twnic.tw,proxy
 host-suffix,cdninstagram.com,proxy
 host-suffix,chatra.io,proxy
 host-suffix,chuantupian.com,proxy
