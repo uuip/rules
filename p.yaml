@@ -187,6 +187,8 @@ payload:
   - DOMAIN-SUFFIX,yiyo.mobi
   - DOMAIN-SUFFIX,8xstqw.xyz
   - DOMAIN-SUFFIX,nexthud.com
+  - DOMAIN-SUFFIX,catnet.uk
+  - DOMAIN-SUFFIX,tagvpn.vip
 
   #软件
   - DOMAIN-SUFFIX,ahkscript.org
