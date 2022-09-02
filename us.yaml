@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,gate.io
