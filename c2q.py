@@ -10,11 +10,6 @@ key_map = {"DOMAIN-KEYWORD": "host-keyword",
            "IP-CIDR6": "ip6-cidr",
            "GEOIP": "geoip",
            }
-policy = {"d": "direct",
-          "r": "reject",
-          "p": "proxy",
-          "us": "us",
-          }
 
 pattern = re.compile(f'({"|".join(x for x in key_map)})(?=\s*?,)')
 drop_pattern = re.compile(',\s*no-resolve')
@@ -39,7 +34,7 @@ for f in Path('.').glob('*.yaml'):
     step1 = filter(lambda x: not x.startswith("PROCESS-NAME"), clash["payload"])
     step2 = map(wrap_sub, step1)
     step3 = map(wrap_drop, step2)
-    step4 = map(lambda x: f'{x},{policy.get(f.stem)}\n'.lower(), step3)
+    step4 = map(lambda x: f'{x},{f.stem}\n'.lower(), step3)
 
     with open("qx" / f.with_suffix('.list'), 'w+', encoding='utf8', newline='\n') as qx:
         qx.writelines(step4)
