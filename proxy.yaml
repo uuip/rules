@@ -194,7 +194,6 @@ payload:
   - DOMAIN-SUFFIX,nameless13.com
 
 #软件
-  - DOMAIN-SUFFIX,ahkscript.org
   - DOMAIN-SUFFIX,aida64.com
   - DOMAIN-SUFFIX,aignes.com
   - DOMAIN-SUFFIX,allroundautomations.com
@@ -267,8 +266,6 @@ payload:
   - DOMAIN-SUFFIX,chinapress.com.my
   - DOMAIN-SUFFIX,dushibuy.ca
   - DOMAIN-SUFFIX,dw.com
-  - DOMAIN-SUFFIX,dwnews.com
-  - DOMAIN-SUFFIX,dwnews.net
   - DOMAIN-SUFFIX,fmm.io
   - DOMAIN-SUFFIX,freecurrencyrates.com
   - DOMAIN-SUFFIX,ftacademy.cn

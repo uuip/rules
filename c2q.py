@@ -29,7 +29,7 @@ def wrap_drop(string):
 
 for f in Path('.').glob('*.yaml'):
     f_io = f.open(encoding='utf8')
-    clash = yaml.safe_load(f_io.read())
+    clash = yaml.safe_load(f_io)
     f_io.close()
     step1 = filter(lambda x: not x.startswith("PROCESS-NAME"), clash["payload"])
     step2 = map(wrap_sub, step1)
