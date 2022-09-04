@@ -14,6 +14,7 @@ host-keyword,twitter,proxy
 host-keyword,youtube,proxy
 host-keyword,readthedocs,proxy
 host-keyword,rsload,proxy
+host-keyword,yahoo,proxy
 host-suffix,abc.xyz,proxy
 host-suffix,android.com,proxy
 host-suffix,appspot.com,proxy

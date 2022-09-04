@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,readthedocs
   - DOMAIN-KEYWORD,rsload
+  - DOMAIN-KEYWORD,yahoo
 
   # Google
   - DOMAIN-SUFFIX,abc.xyz
