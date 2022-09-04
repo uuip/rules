@@ -262,13 +262,11 @@ host-suffix,nyt.com,proxy
 host-suffix,nytimes.com,proxy
 host-suffix,orientaldaily.com.my,proxy
 host-suffix,pangea-cms.com,proxy
-host-suffix,pao-pao.net,proxy
 host-suffix,pixnet.net,proxy
 host-suffix,playpcesor.com,proxy
 host-suffix,ptt.cc,proxy
 host-suffix,read01.com,proxy
 host-suffix,reuters.com,proxy
-host-suffix,rfa.org,proxy
 host-suffix,rfi.fr,proxy
 host-suffix,secretchina.com,proxy
 host-suffix,seehua.com,proxy
@@ -276,8 +274,6 @@ host-suffix,singtao.ca,proxy
 host-suffix,sphdigital.com,proxy
 host-suffix,t66y.com,proxy
 host-suffix,tiqcdn.com,proxy
-host-suffix,voachinese.com,proxy
-host-suffix,voanews.com,proxy
 host-suffix,wikimedia.org,proxy
 host-suffix,wikipedia.com,proxy
 host-suffix,wikipedia.org,proxy
@@ -285,9 +281,9 @@ host-suffix,wp.com,proxy
 host-suffix,wsj.com,proxy
 host-suffix,wsj.net,proxy
 host-suffix,wuyou.ca,proxy
-host-suffix,xjh.me,proxy
 host-suffix,xuite.net,proxy
 host-suffix,zaobao.com,proxy
+host-suffix,xjh.me,proxy
 host-suffix,cdninstagram.com,proxy
 host-suffix,chatra.io,proxy
 host-suffix,chuantupian.com,proxy

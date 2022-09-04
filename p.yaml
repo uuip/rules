@@ -283,13 +283,11 @@ payload:
   - DOMAIN-SUFFIX,nytimes.com
   - DOMAIN-SUFFIX,orientaldaily.com.my
   - DOMAIN-SUFFIX,pangea-cms.com
-  - DOMAIN-SUFFIX,pao-pao.net
   - DOMAIN-SUFFIX,pixnet.net
   - DOMAIN-SUFFIX,playpcesor.com
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,read01.com
   - DOMAIN-SUFFIX,reuters.com
-  - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,secretchina.com
   - DOMAIN-SUFFIX,seehua.com
@@ -297,8 +295,6 @@ payload:
   - DOMAIN-SUFFIX,sphdigital.com
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tiqcdn.com
-  - DOMAIN-SUFFIX,voachinese.com
-  - DOMAIN-SUFFIX,voanews.com
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
@@ -306,11 +302,11 @@ payload:
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,wuyou.ca
-  - DOMAIN-SUFFIX,xjh.me
   - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,zaobao.com
 
   #图片 插件服务
+  - DOMAIN-SUFFIX,xjh.me
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,chatra.io
   - DOMAIN-SUFFIX,chuantupian.com
