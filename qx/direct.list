@@ -16,4 +16,3 @@ ip-cidr,192.168.0.0/16,direct
 host,8xstqw.xyz,direct
 host,api.nxtlnodes.com,direct
 host,api.immtel.co,direct
-host,api.huacloud.xyz,direct
