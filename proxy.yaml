@@ -175,24 +175,18 @@ payload:
 
   #ssr提供商
   - DOMAIN-SUFFIX,guguex.com
-  - DOMAIN,8xstqw.xyz
   - DOMAIN-SUFFIX,amysecure.com
-  - DOMAIN,api.nxtlnodes.com
+  - DOMAIN-SUFFIX,fuckimm.com
   - DOMAIN-SUFFIX,blinkload.zone
-  - DOMAIN,lepvoeqgd.pay.pm
   - DOMAIN-SUFFIX,flower.yt
-  - DOMAIN,api.huacloud.xyz
   - DOMAIN-SUFFIX,catnet.uk
-  - DOMAIN,config.51catss.com
-  - DOMAIN-SUFFIX,tagvpn.vip
+  - DOMAIN-SUFFIX,yiyo.io
+  - DOMAIN-SUFFIX,yiyo.mobi
+  - DOMAIN-SUFFIX,maying.co
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN-SUFFIX,yiyo.io
-  - DOMAIN-SUFFIX,yiyo.mobi
-  - DOMAIN-SUFFIX,maying.co
-  - DOMAIN-SUFFIX,nameless13.com
 
 #软件
   - DOMAIN-SUFFIX,aida64.com
