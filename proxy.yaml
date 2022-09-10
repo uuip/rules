@@ -296,6 +296,8 @@ payload:
   - DOMAIN-SUFFIX,wuyou.ca
   - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,zaobao.com
+  - DOMAIN-SUFFIX,soundofhope.org
+  - DOMAIN-SUFFIX,appledaily.com
 
   #图片 插件服务
   - DOMAIN-SUFFIX,xjh.me
