@@ -188,7 +188,7 @@ payload:
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
 
-#软件
+  #软件
   - DOMAIN-SUFFIX,aida64.com
   - DOMAIN-SUFFIX,aignes.com
   - DOMAIN-SUFFIX,allroundautomations.com
@@ -349,19 +349,3 @@ payload:
   - PROCESS-NAME,ONENOTE.EXE
   - PROCESS-NAME,EXCEL.EXE
   - PROCESS-NAME,WINWORD.EXE
-
-  - IP-CIDR,196.55.215.0/24,no-resolve
-  - IP-CIDR,164.52.93.0/24,no-resolve
-
-  - GEOIP,US
-  - GEOIP,TW
-  - GEOIP,AT
-  - GEOIP,CA
-  - GEOIP,DE
-  - GEOIP,FR
-  - GEOIP,GB
-  - GEOIP,JP
-  - GEOIP,HK
-  - GEOIP,ID
-  - GEOIP,SG
-  - GEOIP,RU
