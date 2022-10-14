@@ -3,7 +3,6 @@ payload:
   - DOMAIN-KEYWORD,gvt
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,facebook
-  - DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,mydigitallife
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,instagram
@@ -203,7 +202,6 @@ payload:
   - DOMAIN-SUFFIX,evozi.com
   - DOMAIN-SUFFIX,faststone.org
   - DOMAIN-SUFFIX,faststonesoft.net
-  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,genuitec.com
   - DOMAIN-SUFFIX,goldwave.com
   - DOMAIN-SUFFIX,greasyfork.org

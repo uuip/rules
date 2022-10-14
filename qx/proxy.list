@@ -2,7 +2,6 @@ host-keyword,google,proxy
 host-keyword,gvt,proxy
 host-keyword,blogspot,proxy
 host-keyword,facebook,proxy
-host-keyword,mozilla,proxy
 host-keyword,mydigitallife,proxy
 host-keyword,gmail,proxy
 host-keyword,instagram,proxy
@@ -186,7 +185,6 @@ host-suffix,esetstatic.com,proxy
 host-suffix,evozi.com,proxy
 host-suffix,faststone.org,proxy
 host-suffix,faststonesoft.net,proxy
-host-suffix,firefox.com,proxy
 host-suffix,genuitec.com,proxy
 host-suffix,goldwave.com,proxy
 host-suffix,greasyfork.org,proxy
