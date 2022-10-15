@@ -85,7 +85,6 @@ payload:
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,easylist.to
-  - DOMAIN,mozaws.net
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,cookielaw.org
@@ -176,7 +175,6 @@ payload:
   - DOMAIN-SUFFIX,guguex.com
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,fuckimm.com
-  - DOMAIN-SUFFIX,blinkload.zone
   - DOMAIN-SUFFIX,flower.yt
   - DOMAIN-SUFFIX,catnet.uk
   - DOMAIN-SUFFIX,yiyo.io
@@ -186,6 +184,9 @@ payload:
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN,8xstqw.xyz
+  - DOMAIN,api.nxtlnodes.com
+  - DOMAIN,api.immtel.co
 
   #软件
   - DOMAIN-SUFFIX,aida64.com

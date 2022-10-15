@@ -76,7 +76,6 @@ host-suffix,githubusercontent.com,proxy
 host,download.sysinternals.com,proxy
 host,easylist-downloads.adblockplus.org,proxy
 host,easylist.to,proxy
-host,mozaws.net,proxy
 host-suffix,npmjs.org,proxy
 host-suffix,jupyter.org,proxy
 host-suffix,cookielaw.org,proxy
@@ -161,7 +160,6 @@ host-suffix,solidfiles.com,proxy
 host-suffix,guguex.com,proxy
 host-suffix,amysecure.com,proxy
 host-suffix,fuckimm.com,proxy
-host-suffix,blinkload.zone,proxy
 host-suffix,flower.yt,proxy
 host-suffix,catnet.uk,proxy
 host-suffix,yiyo.io,proxy
@@ -171,6 +169,9 @@ host-suffix,duyaoss.com,proxy
 host-suffix,v2ray.com,proxy
 host-suffix,getlantern.org,proxy
 host-suffix,torproject.org,proxy
+host,8xstqw.xyz,proxy
+host,api.nxtlnodes.com,proxy
+host,api.immtel.co,proxy
 host-suffix,aida64.com,proxy
 host-suffix,aignes.com,proxy
 host-suffix,allroundautomations.com,proxy

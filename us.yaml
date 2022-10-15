@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,mozaws.net
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bscscan.com

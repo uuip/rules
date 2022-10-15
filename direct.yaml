@@ -17,7 +17,3 @@ payload:
   - PROCESS-NAME,ShadowsocksR.exe
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,Bypass.exe
-
-  - DOMAIN,8xstqw.xyz
-  - DOMAIN,api.nxtlnodes.com
-  - DOMAIN,api.immtel.co
