@@ -187,6 +187,7 @@ payload:
   - DOMAIN,8xstqw.xyz
   - DOMAIN,api.nxtlnodes.com
   - DOMAIN,api.immtel.co
+  - DOMAIN,api.huacloud.xyz
 
   #软件
   - DOMAIN-SUFFIX,aida64.com
