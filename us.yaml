@@ -1,7 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,mozilla
-  - DOMAIN-SUFFIX,firefox.com
-  - DOMAIN-SUFFIX,mozaws.net
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bscscan.com
@@ -16,4 +13,3 @@ payload:
   - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,kraken.com
-  - DOMAIN-SUFFIX,gate.io
