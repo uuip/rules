@@ -31,7 +31,7 @@ for f in Path('.').glob('*.yaml'):
     f_io = f.open(encoding='utf8')
     clash = yaml.safe_load(f_io)
     f_io.close()
-    step1 = filter(lambda x: not x.startswith("PROCESS-NAME"), clash["payload"])
+    step1 = filter(lambda x: x and not x.startswith("PROCESS-NAME"), clash["payload"])
     step2 = map(wrap_sub, step1)
     step3 = map(wrap_drop, step2)
     step4 = map(lambda x: f'{x},{f.stem}\n'.lower(), step3)

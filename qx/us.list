@@ -1,6 +1,4 @@
-host-keyword,mozilla,us
-host-suffix,firefox.com,us
-host-suffix,mozaws.net,us
+host-keyword,readthedocs,us
 host-suffix,binance.org,us
 host-suffix,binance.com,us
 host-suffix,bscscan.com,us
@@ -15,4 +13,3 @@ host-suffix,ninicoin.io,us
 host-suffix,nodereal.io,us
 host-suffix,ethereum.org,us
 host-suffix,kraken.com,us
-host-suffix,gate.io,us

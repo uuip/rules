@@ -11,7 +11,6 @@ host-keyword,shadowsocks,proxy
 host-keyword,telegram,proxy
 host-keyword,twitter,proxy
 host-keyword,youtube,proxy
-host-keyword,readthedocs,proxy
 host-keyword,rsload,proxy
 host-keyword,yahoo,proxy
 host-suffix,abc.xyz,proxy
@@ -73,6 +72,9 @@ host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
+host-keyword,mozilla,proxy
+host-suffix,firefox.com,proxy
+host-suffix,mozaws.net,proxy
 host,download.sysinternals.com,proxy
 host,easylist-downloads.adblockplus.org,proxy
 host,easylist.to,proxy
