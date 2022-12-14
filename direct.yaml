@@ -14,6 +14,7 @@ payload:
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,172.16.0.0/12,no-resolve
   - IP-CIDR,192.168.0.0/16,no-resolve
+  - IP-CIDR,123.60.114.0/24,no-resolve
   - PROCESS-NAME,ShadowsocksR.exe
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,Bypass.exe
