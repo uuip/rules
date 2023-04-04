@@ -20,10 +20,14 @@ payload:
   - DOMAIN-SUFFIX,fastspring.com
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,payproglobal.com
- 
+
   - DOMAIN-SUFFIX,paragon-software.com
   - DOMAIN-SUFFIX,daisydiskapp.com
   - DOMAIN-SUFFIX,tracker-software.com
   - DOMAIN-SUFFIX,faststonesoft.net
   - DOMAIN-SUFFIX,faststone.org
   - DOMAIN-SUFFIX,vandyke.com
+
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,clarity.ms

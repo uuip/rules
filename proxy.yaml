@@ -66,8 +66,6 @@ payload:
   - DOMAIN-SUFFIX,officecdn.microsoft.com.edgesuite.net
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,sharepointonline.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,msn.com
 
   #github

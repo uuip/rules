@@ -61,8 +61,6 @@ host-suffix,msecnd.net,proxy
 host-suffix,officecdn.microsoft.com.edgesuite.net,proxy
 host-suffix,sfx.ms,proxy
 host-suffix,sharepointonline.com,proxy
-host-suffix,bing.com,proxy
-host-suffix,bing.net,proxy
 host-suffix,msn.com,proxy
 host-suffix,cdn.rawgit.com,proxy
 host-suffix,ghbtns.com,proxy
