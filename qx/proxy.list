@@ -81,7 +81,6 @@ host,easylist.to,proxy
 host-suffix,npmjs.org,proxy
 host-suffix,jupyter.org,proxy
 host-suffix,cookielaw.org,proxy
-host-suffix,teambition.com,proxy
 host-suffix,10minutemail.com,proxy
 host-suffix,angularjs.org,proxy
 host-suffix,bitbucket.org,proxy
@@ -159,11 +158,9 @@ host-suffix,mega.nz,proxy
 host-suffix,megaupload.com,proxy
 host-suffix,s3.amazonaws.com,proxy
 host-suffix,solidfiles.com,proxy
-host-suffix,guguex.com,proxy
 host-suffix,amysecure.com,proxy
 host-suffix,fuckimm.com,proxy
 host-suffix,flower.yt,proxy
-host-suffix,catnet.uk,proxy
 host-suffix,yiyo.io,proxy
 host-suffix,yiyo.mobi,proxy
 host-suffix,maying.co,proxy
@@ -171,7 +168,6 @@ host-suffix,duyaoss.com,proxy
 host-suffix,v2ray.com,proxy
 host-suffix,getlantern.org,proxy
 host-suffix,torproject.org,proxy
-host,8xstqw.xyz,proxy
 host,api.nxtlnodes.com,proxy
 host,api.immtel.co,proxy
 host,api.huacloud.xyz,proxy

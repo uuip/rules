@@ -92,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,teambition.com
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,angularjs.org
   - DOMAIN-SUFFIX,bitbucket.org
@@ -176,11 +175,9 @@ payload:
   - DOMAIN-SUFFIX,solidfiles.com
 
   #ssr提供商
-  - DOMAIN-SUFFIX,guguex.com
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,fuckimm.com
   - DOMAIN-SUFFIX,flower.yt
-  - DOMAIN-SUFFIX,catnet.uk
   - DOMAIN-SUFFIX,yiyo.io
   - DOMAIN-SUFFIX,yiyo.mobi
   - DOMAIN-SUFFIX,maying.co
@@ -188,7 +185,6 @@ payload:
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN,8xstqw.xyz
   - DOMAIN,api.nxtlnodes.com
   - DOMAIN,api.immtel.co
   - DOMAIN,api.huacloud.xyz
