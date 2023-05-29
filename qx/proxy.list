@@ -168,8 +168,6 @@ host-suffix,duyaoss.com,proxy
 host-suffix,v2ray.com,proxy
 host-suffix,getlantern.org,proxy
 host-suffix,torproject.org,proxy
-host,api.nxtlnodes.com,proxy
-host,api.immtel.co,proxy
 host,api.huacloud.xyz,proxy
 host-suffix,aida64.com,proxy
 host-suffix,aignes.com,proxy

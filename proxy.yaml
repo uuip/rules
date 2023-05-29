@@ -185,8 +185,6 @@ payload:
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN,api.nxtlnodes.com
-  - DOMAIN,api.immtel.co
   - DOMAIN,api.huacloud.xyz
 
   #软件

@@ -1,4 +1,5 @@
 host-keyword,readthedocs,us
+host-keyword,ipfs,us
 host-suffix,binance.org,us
 host-suffix,binance.com,us
 host-suffix,bscscan.com,us
@@ -13,6 +14,14 @@ host-suffix,ninicoin.io,us
 host-suffix,nodereal.io,us
 host-suffix,ethereum.org,us
 host-suffix,kraken.com,us
+host-suffix,bntrace.com,us
+host-suffix,coingecko.com,us
+host-suffix,cryptocompare.com,us
+host-suffix,codefi.network,us
+host-suffix,api.wisdom.sh,us
+host-suffix,gateway.originprotocol.com,us
+host-suffix,gateway.serph.network,us
+host-suffix,branch.io,us
 host-suffix,onfastspring.com,us
 host-suffix,fastspring.com,us
 host-suffix,paddle.com,us
