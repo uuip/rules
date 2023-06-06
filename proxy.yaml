@@ -207,7 +207,6 @@ payload:
   - DOMAIN-SUFFIX,lopesoft.com
   - DOMAIN-SUFFIX,mariadb.org
   - DOMAIN-SUFFIX,metaproducts.com
-  - DOMAIN-SUFFIX,navicat.com
   - DOMAIN-SUFFIX,nmap.org
   - DOMAIN-SUFFIX,privoxy.org
   - DOMAIN-SUFFIX,proxifier.com
