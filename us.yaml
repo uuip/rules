@@ -42,3 +42,5 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,grazie.ai
