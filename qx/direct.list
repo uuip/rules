@@ -14,5 +14,3 @@ ip-cidr,10.0.0.0/8,direct
 ip-cidr,172.16.0.0/12,direct
 ip-cidr,192.168.0.0/16,direct
 ip-cidr,123.60.114.0/24,direct
-host,api.immtel.co,direct
-host-suffix,zsfjro.sbs,direct
