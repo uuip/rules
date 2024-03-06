@@ -89,6 +89,7 @@ payload:
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,easylist.to
+  - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,cookielaw.org
