@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,readthedocs
   - DOMAIN-KEYWORD,ipfs
 
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
