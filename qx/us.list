@@ -40,3 +40,6 @@ host-suffix,bing.net,us
 host-suffix,clarity.ms,us
 host-suffix,intellij.net,us
 host-suffix,grazie.ai,us
+host-suffix,anthropic.com,us
+host-suffix,openai.com,us
+host-suffix,chatgpt.com,us

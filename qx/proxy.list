@@ -78,6 +78,7 @@ host-suffix,mozaws.net,proxy
 host,download.sysinternals.com,proxy
 host,easylist-downloads.adblockplus.org,proxy
 host,easylist.to,proxy
+host-suffix,mypikpak.com,proxy
 host-suffix,npmjs.org,proxy
 host-suffix,jupyter.org,proxy
 host-suffix,cookielaw.org,proxy
