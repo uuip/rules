@@ -48,4 +48,4 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - gemini.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
