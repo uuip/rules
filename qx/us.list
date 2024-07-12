@@ -35,6 +35,7 @@ host-suffix,faststonesoft.net,us
 host-suffix,faststone.org,us
 host-suffix,vandyke.com,us
 host-suffix,navicat.com,us
+host-suffix,imazing.com,us
 host-suffix,bing.com,us
 host-suffix,bing.net,us
 host-suffix,clarity.ms,us
@@ -43,3 +44,5 @@ host-suffix,grazie.ai,us
 host-suffix,anthropic.com,us
 host-suffix,openai.com,us
 host-suffix,chatgpt.com,us
+host-suffix,gemini.google.com,us
+host-suffix,ai.google.dev,us
