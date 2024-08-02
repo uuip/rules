@@ -50,3 +50,4 @@ host,aistudio.google.com,us
 host,makersuite.google.com,us
 host,generativelanguage.googleapis.com,us
 host-keyword,alkalimakersuite-pa,us
+host-keyword,-pa,us
