@@ -55,4 +55,4 @@ payload:
   - DOMAIN,aistudio.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN-KEYWORD,alkalimakersuite-pa  
+  - DOMAIN-KEYWORD,-pa  
