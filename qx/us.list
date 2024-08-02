@@ -44,9 +44,9 @@ host-suffix,grazie.ai,us
 host-suffix,anthropic.com,us
 host-suffix,openai.com,us
 host-suffix,chatgpt.com,us
-host,gemini.google.com
-host,ai.google.dev
-host,aistudio.google.com
-host,makersuite.google.com
-host,generativelanguage.googleapis.com
-host-keyword,alkalimakersuite-pa
+host,gemini.google.com,us
+host,ai.google.dev,us
+host,aistudio.google.com,us
+host,makersuite.google.com,us
+host,generativelanguage.googleapis.com,us
+host-keyword,alkalimakersuite-pa,us
