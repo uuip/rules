@@ -1,4 +1,11 @@
 payload:
+  - DOMAIN,api.apipool.dev
+  - DOMAIN,node-hk.sssaicode.com
+  - DOMAIN,www.micuapi.ai
+  - DOMAIN-SUFFIX,packyapi.com
+  - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN-SUFFIX,daocloud.io
+  - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,gtimg.cn
@@ -8,13 +15,6 @@ payload:
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,proxy.ustclug.org
+  - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,.cn
-  - IP-CIDR,127.0.0.0/8,no-resolve
-  - IP-CIDR,10.0.0.0/8,no-resolve
-  - IP-CIDR,172.16.0.0/12,no-resolve
-  - IP-CIDR,192.168.0.0/16,no-resolve
-  - IP-CIDR,123.60.114.0/24,no-resolve
-  - PROCESS-NAME,ShadowsocksR.exe
-  - PROCESS-NAME,WeChat.exe
-  - PROCESS-NAME,Bypass.exe

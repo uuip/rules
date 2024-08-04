@@ -1,3 +1,10 @@
+host,api.apipool.dev,direct
+host,node-hk.sssaicode.com,direct
+host,www.micuapi.ai,direct
+host-suffix,packyapi.com,direct
+host-suffix,ghfast.top,direct
+host-suffix,daocloud.io,direct
+host-suffix,gitee.com,direct
 host-suffix,qq.com,direct
 host-suffix,smtcdns.com,direct
 host-suffix,gtimg.cn,direct
@@ -7,10 +14,6 @@ host-suffix,jd.com,direct
 host-suffix,baidu.com,direct
 host-suffix,youku.com,direct
 host-suffix,163.com,direct
+host-suffix,proxy.ustclug.org,direct
+host-suffix,cn,direct
 host-keyword,alipay,direct
-host-keyword,.cn,direct
-ip-cidr,127.0.0.0/8,direct
-ip-cidr,10.0.0.0/8,direct
-ip-cidr,172.16.0.0/12,direct
-ip-cidr,192.168.0.0/16,direct
-ip-cidr,123.60.114.0/24,direct

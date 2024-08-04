@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,readthedocs
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gvt
   - DOMAIN-KEYWORD,blogspot
@@ -26,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,googlevideo.com
@@ -35,7 +35,6 @@ payload:
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
 
   # 微软
@@ -69,7 +68,6 @@ payload:
   - DOMAIN-SUFFIX,msn.com
 
   #github
-  - DOMAIN-SUFFIX,cdn.rawgit.com
   - DOMAIN-SUFFIX,ghbtns.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
@@ -79,13 +77,15 @@ payload:
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  -
+
   #firefox
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,mozaws.net
-  -
+
   #技术与服务
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN,apipool.dev
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,easylist.to
@@ -175,18 +175,10 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,solidfiles.com
 
-  #ssr提供商
-  - DOMAIN-SUFFIX,amysecure.com
-  - DOMAIN-SUFFIX,fuckimm.com
-  - DOMAIN-SUFFIX,flower.yt
-  - DOMAIN-SUFFIX,yiyo.io
-  - DOMAIN-SUFFIX,yiyo.mobi
-  - DOMAIN-SUFFIX,maying.co
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN,api.huacloud.xyz
 
   #软件
   - DOMAIN-SUFFIX,aida64.com
@@ -340,8 +332,3 @@ payload:
   - IP-CIDR6,2001:b28:f23c::/48,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
-  - PROCESS-NAME,onedrive.exe
-  - PROCESS-NAME,ONENOTE.EXE
-  - PROCESS-NAME,EXCEL.EXE
-  - PROCESS-NAME,WINWORD.EXE
