@@ -44,15 +44,20 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,clarity.ms
+
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,grazie.ai
+
   - DOMAIN-SUFFIX,anthropic.com
+
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
-  
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN-KEYWORD,-pa  
+  - DOMAIN-KEYWORD,-pa
