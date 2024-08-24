@@ -52,3 +52,4 @@ host,aistudio.google.com,us
 host,makersuite.google.com,us
 host,generativelanguage.googleapis.com,us
 host-keyword,-pa,us
+host,update.googleapis.com,us

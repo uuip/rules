@@ -39,3 +39,5 @@ for f in Path(".").glob("*.yaml"):
 
     with open("qx" / f.with_suffix(".list"), "w+", encoding="utf8", newline="\n") as qx:
         qx.writelines(step4)
+        if f.stem == "direct":
+            qx.writelines(["host, api.immtel.co, direct\n", "host-suffix, vlrzgf.sbs, direct"])
