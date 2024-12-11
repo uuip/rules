@@ -132,7 +132,6 @@ host-suffix,bizhixiang.cn,reject
 host-suffix,static.bshare.cn,reject
 host-suffix,tumblrprobes.cedexis.com,reject
 host-suffix,tumblrreports.cedexis.com,reject
-host-suffix,chartboost.com,reject
 host-suffix,stats.chinaz.com,reject
 host-suffix,clicktracks.com,reject
 host-suffix,clickzs.com,reject
