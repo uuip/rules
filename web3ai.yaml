@@ -1,7 +1,5 @@
 payload:
-  - DOMAIN-KEYWORD,readthedocs
   - DOMAIN-KEYWORD,ipfs
-
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bscscan.com
@@ -24,22 +22,6 @@ payload:
   - DOMAIN-SUFFIX,gateway.originprotocol.com
   - DOMAIN-SUFFIX,gateway.serph.network
   - DOMAIN-SUFFIX,branch.io
-
-  - DOMAIN-SUFFIX,onfastspring.com
-  - DOMAIN-SUFFIX,fastspring.com
-  - DOMAIN-SUFFIX,paddle.com
-  - DOMAIN-SUFFIX,payproglobal.com
-  - DOMAIN-SUFFIX,shareit.com
-
-  - DOMAIN-SUFFIX,paragon-software.com
-  - DOMAIN-SUFFIX,daisydiskapp.com
-  - DOMAIN-SUFFIX,tracker-software.com
-  - DOMAIN-SUFFIX,pdf-xchange.com
-  - DOMAIN-SUFFIX,faststonesoft.net
-  - DOMAIN-SUFFIX,faststone.org
-  - DOMAIN-SUFFIX,vandyke.com
-  - DOMAIN-SUFFIX,navicat.com
-  - DOMAIN-SUFFIX,imazing.com
 
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
