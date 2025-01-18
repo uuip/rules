@@ -24,7 +24,6 @@ host-suffix,chromium.org,proxy
 host-suffix,doubleclick.net,proxy
 host-suffix,g.co,proxy
 host-suffix,ggpht.com,proxy
-host-suffix,gmail.com,proxy
 host-suffix,golang.org,proxy
 host-suffix,goo.gl,proxy
 host-suffix,googlevideo.com,proxy
@@ -33,7 +32,6 @@ host-suffix,pki.goog,proxy
 host-suffix,tensorflow.org,proxy
 host-suffix,youtu.be,proxy
 host-suffix,youtube-nocookie.com,proxy
-host-suffix,youtube.com,proxy
 host-suffix,ytimg.com,proxy
 host,www.msftconnecttest.com,proxy
 host-suffix,1drv.com,proxy
