@@ -68,7 +68,6 @@ payload:
   - DOMAIN-SUFFIX,msn.com
 
   #github
-  - DOMAIN-SUFFIX,cdn.rawgit.com
   - DOMAIN-SUFFIX,ghbtns.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
@@ -174,18 +173,10 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,solidfiles.com
 
-  #ssr提供商
-  - DOMAIN-SUFFIX,amysecure.com
-  - DOMAIN-SUFFIX,fuckimm.com
-  - DOMAIN-SUFFIX,flower.yt
-  - DOMAIN-SUFFIX,yiyo.io
-  - DOMAIN-SUFFIX,yiyo.mobi
-  - DOMAIN-SUFFIX,maying.co
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN,api.huacloud.xyz
 
   #软件
   - DOMAIN-SUFFIX,aida64.com
