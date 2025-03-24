@@ -1,4 +1,3 @@
-import re
 from pathlib import Path
 
 import yaml
@@ -10,32 +9,25 @@ key_map = {
     "IP-CIDR": "ip-cidr",
     "IP-CIDR6": "ip6-cidr",
     "GEOIP": "geoip",
+    "IP-ASN": "ip-asn",
 }
-
-pattern = re.compile(rf'({"|".join(x for x in key_map)})(?=\s*?,)')
-drop_pattern = re.compile(r",\s*no-resolve")
-
-
-def subrepl(matchobj):
-    return key_map.get(matchobj.group(1))
-
-
-def wrap_sub(string):
-    return pattern.sub(subrepl, string)
-
-
-def wrap_drop(string):
-    return drop_pattern.sub("", string)
-
 
 for f in Path(".").glob("*.yaml"):
     f_io = f.open(encoding="utf8")
     clash = yaml.safe_load(f_io)
     f_io.close()
-    step1 = filter(lambda x: x and not x.startswith("PROCESS-NAME"), clash["payload"])
-    step2 = map(wrap_sub, step1)
-    step3 = map(wrap_drop, step2)
-    step4 = map(lambda x: f"{x},{f.stem}\n".lower(), step3)
+
+    toadd = []
+
+    for line in clash["payload"]:
+        parts = list(map(lambda s: s.strip(), line.split(",")))
+        if parts[0] in key_map:
+            parts[0] = key_map[parts[0]]
+            parts.append(f.stem)
+        if "no-resolve" in parts:
+            parts.remove("no-resolve")
+            parts.append("no-resolve")
+        toadd.append(",".join(parts).lower() + "\n")
 
     with open("qx" / f.with_suffix(".list"), "w+", encoding="utf8", newline="\n") as qx:
-        qx.writelines(step4)
+        qx.writelines(toadd)
