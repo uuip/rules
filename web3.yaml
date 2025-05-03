@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,ipfs
+  - DOMAIN-KEYWORD,okx.com
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bscscan.com
@@ -22,26 +23,4 @@ payload:
   - DOMAIN-SUFFIX,gateway.originprotocol.com
   - DOMAIN-SUFFIX,gateway.serph.network
   - DOMAIN-SUFFIX,branch.io
-
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,clarity.ms
-
-  - DOMAIN-SUFFIX,intellij.net
-  - DOMAIN-SUFFIX,jetbrains.ai
-  - DOMAIN-SUFFIX,grazie.ai
-
-  - DOMAIN-SUFFIX,anthropic.com
-
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,ai.google.dev
-  - DOMAIN,aistudio.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN-KEYWORD,-pa
-  - DOMAIN,update.googleapis.com
+  - DOMAIN-SUFFIX,okcoin.com
