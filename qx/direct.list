@@ -9,8 +9,3 @@ host-suffix,youku.com,direct
 host-suffix,163.com,direct
 host-keyword,alipay,direct
 host-keyword,.cn,direct
-ip-cidr,127.0.0.0/8,direct,no-resolve
-ip-cidr,10.0.0.0/8,direct,no-resolve
-ip-cidr,172.16.0.0/12,direct,no-resolve
-ip-cidr,192.168.0.0/16,direct,no-resolve
-ip-cidr,123.60.114.0/24,direct,no-resolve
