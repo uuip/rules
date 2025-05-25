@@ -13,6 +13,7 @@ host-suffix,oaiusercontent.com,ai
 host-suffix,gemini.google.com,ai
 host-suffix,ai.google.dev,ai
 host,aistudio.google.com,ai
+host,jules.google.com,ai
 host,makersuite.google.com,ai
 host,generativelanguage.googleapis.com,ai
 host-keyword,-pa,ai
