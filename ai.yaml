@@ -5,10 +5,10 @@ payload:
 
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,intellij.net
 
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,intellimize.co
 
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
