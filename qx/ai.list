@@ -19,3 +19,4 @@ host,generativelanguage.googleapis.com,ai
 host-keyword,-pa,ai
 host,update.googleapis.com,ai
 host-suffix,openrouter.ai,ai
+host-suffix,requesty.ai,ai
