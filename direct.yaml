@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,proxy.ustclug.org
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,.cn
 #  - IP-CIDR,127.0.0.0/8,no-resolve
