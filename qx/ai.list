@@ -5,6 +5,8 @@ host-suffix,jetbrains.ai,ai
 host-suffix,jetbrains.com,ai
 host-suffix,intellij.net,ai
 host-suffix,anthropic.com,ai
+host-suffix,claude.com,ai
+host-suffix,claude.ai,ai
 host-suffix,intellimize.co,ai
 host-suffix,openai.com,ai
 host-suffix,chatgpt.com,ai
