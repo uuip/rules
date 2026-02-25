@@ -9,5 +9,5 @@ host-suffix,baidu.com,direct
 host-suffix,youku.com,direct
 host-suffix,163.com,direct
 host-suffix,proxy.ustclug.org,direct
+host-suffix,cn,direct
 host-keyword,alipay,direct
-host-keyword,.cn,direct

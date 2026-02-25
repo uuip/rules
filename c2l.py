@@ -13,6 +13,8 @@ key_list = [
 ]
 
 for f in Path(".").glob("*.yaml"):
+    if f.name=="censor_dns.yaml":
+        continue
     f_io = f.open(encoding="utf8")
     clash = yaml.safe_load(f_io)
     f_io.close()
