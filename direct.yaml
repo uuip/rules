@@ -1,7 +1,8 @@
 payload:
   - DOMAIN,api.aicodewith.com
-  - DOMAIN,www.ddshub.cc
+  - DOMAIN-SUFFIX,ddshub.cc
   - DOMAIN-SUFFIX,duomi.uk
+  - DOMAIN-SUFFIX,apipool.dev
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,gtimg.cn
