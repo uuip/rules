@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,mozilla
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozaws.net
+DOMAIN-SUFFIX,docker.io
 DOMAIN,download.sysinternals.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,easylist.to

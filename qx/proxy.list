@@ -73,6 +73,7 @@ host-suffix,githubusercontent.com,proxy
 host-keyword,mozilla,proxy
 host-suffix,firefox.com,proxy
 host-suffix,mozaws.net,proxy
+host-suffix,docker.io,proxy
 host,download.sysinternals.com,proxy
 host,easylist-downloads.adblockplus.org,proxy
 host,easylist.to,proxy
