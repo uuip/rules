@@ -74,6 +74,7 @@ DOMAIN-KEYWORD,mozilla
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozaws.net
 DOMAIN-SUFFIX,docker.io
+DOMAIN,apipool.dev
 DOMAIN,download.sysinternals.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,easylist.to

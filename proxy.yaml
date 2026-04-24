@@ -85,6 +85,7 @@ payload:
 
   #技术与服务
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN,apipool.dev
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
   - DOMAIN,easylist.to
