@@ -1,4 +1,5 @@
 host,api.aicodewith.com,direct
+host-suffix,gitee.com,direct
 host-suffix,ddshub.cc,direct
 host-suffix,duomi.uk,direct
 host,api.apipool.dev,direct
