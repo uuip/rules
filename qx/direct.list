@@ -1,6 +1,6 @@
 host,api.apipool.dev,direct
 host,node-hk.sssaicode.com,direct
-host,www.micuapi.ai,direct
+host,api-slb.micuapi.ai,direct
 host-suffix,packyapi.com,direct
 host-suffix,ghfast.top,direct
 host-suffix,daocloud.io,direct

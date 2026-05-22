@@ -73,11 +73,11 @@ host-suffix,githubusercontent.com,proxy
 host-keyword,mozilla,proxy
 host-suffix,firefox.com,proxy
 host-suffix,mozaws.net,proxy
-host-suffix,docker.io,proxy
 host,apipool.dev,proxy
 host,download.sysinternals.com,proxy
 host,easylist-downloads.adblockplus.org,proxy
 host,easylist.to,proxy
+host-suffix,docker.io,proxy
 host-suffix,mypikpak.com,proxy
 host-suffix,npmjs.org,proxy
 host-suffix,jupyter.org,proxy
