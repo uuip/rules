@@ -84,6 +84,8 @@ payload:
   - DOMAIN-SUFFIX,mozaws.net
 
   #技术与服务
+  - DOMAIN,download.jetbrains.com
+  - DOMAIN,download-cdn.jetbrains.com
   - DOMAIN,apipool.dev
   - DOMAIN,download.sysinternals.com
   - DOMAIN,easylist-downloads.adblockplus.org
