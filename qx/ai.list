@@ -2,7 +2,9 @@ host-suffix,bing.com,ai
 host-suffix,bing.net,ai
 host-suffix,clarity.ms,ai
 host-suffix,jetbrains.ai,ai
-host-suffix,jetbrains.com,ai
+host,frameworks.jetbrains.com,ai
+host,account.jetbrains.com,ai
+host,junie.jetbrains.com,ai
 host-suffix,intellij.net,ai
 host-suffix,anthropic.com,ai
 host-suffix,claude.com,ai

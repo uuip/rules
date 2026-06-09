@@ -2,7 +2,9 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,jetbrains.ai
-DOMAIN-SUFFIX,jetbrains.com
+DOMAIN,frameworks.jetbrains.com
+DOMAIN,account.jetbrains.com
+DOMAIN,junie.jetbrains.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
