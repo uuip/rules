@@ -7,8 +7,6 @@ host-suffix,daocloud.io,direct
 host-suffix,gitee.com,direct
 host-suffix,qq.com,direct
 host-suffix,smtcdns.com,direct
-host-suffix,gtimg.cn,direct
-host-suffix,cdn-go.cn,direct
 host-suffix,scorecardresearch.com,direct
 host-suffix,jd.com,direct
 host-suffix,baidu.com,direct
