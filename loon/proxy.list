@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,www.msftconnecttest.com
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net

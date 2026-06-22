@@ -33,6 +33,7 @@ host-suffix,tensorflow.org,proxy
 host-suffix,youtu.be,proxy
 host-suffix,ytimg.com,proxy
 host,www.msftconnecttest.com,proxy
+host,vscode.download.prss.microsoft.com,proxy
 host-suffix,1drv.com,proxy
 host-suffix,office.com,proxy
 host-suffix,office.net,proxy
