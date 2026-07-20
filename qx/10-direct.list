@@ -16,3 +16,5 @@ host-suffix,proxy.ustclug.org,direct
 host-suffix,cn,direct
 host-keyword,alipay,direct
 host-suffix,qy.net,direct
+host,sub.kwk7thgc.com,direct
+host,api.linkcube.dev,direct
