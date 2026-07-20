@@ -12,9 +12,17 @@ key_list = [
     "IP-ASN",
 ]
 
+rule_files = []
+
 for f in Path(".").glob("*.yaml"):
-    if f.name=="censor_dns.yaml":
+    if f.name == "censor_dns.yaml":
         continue
+    name_parts = f.stem.split("-", 2)
+    if len(name_parts) < 2 or not name_parts[0].isdigit():
+        raise ValueError(f"Invalid rule filename: {f.name}")
+    rule_files.append((int(name_parts[0]), f.name, f))
+
+for _, _, f in sorted(rule_files):
     f_io = f.open(encoding="utf8")
     clash = yaml.safe_load(f_io)
     f_io.close()
