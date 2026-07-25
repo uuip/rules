@@ -6,6 +6,7 @@ key_map = {
     "DOMAIN-KEYWORD": "host-keyword",
     "DOMAIN": "host",
     "DOMAIN-SUFFIX": "host-suffix",
+    "DOMAIN-WILDCARD": "host-wildcard",
     "IP-CIDR": "ip-cidr",
     "IP-CIDR6": "ip6-cidr",
     "GEOIP": "geoip",

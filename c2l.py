@@ -31,7 +31,15 @@ for _, _, f in sorted(rule_files):
 
     for line in clash["payload"]:
         parts = list(map(lambda s: s.strip(), line.split(",")))
-        if parts[0] in key_list:
+        if parts[0] == "DOMAIN-WILDCARD":
+            pattern = parts[1]
+            if not pattern.startswith("*") or pattern.count("*") != 2 or "*." not in pattern:
+                raise ValueError(f"Unsupported DOMAIN-WILDCARD pattern: {pattern}")
+            keyword, suffix = pattern[1:].split("*.", 1)
+            toadd.append(
+                f"AND,((DOMAIN-KEYWORD,{keyword}),(DOMAIN-SUFFIX,{suffix}))\n"
+            )
+        elif parts[0] in key_list:
             toadd.append(",".join(parts) + "\n")
 
     with open("loon" / f.with_suffix(".list"), "w+", encoding="utf8", newline="\n") as qx:

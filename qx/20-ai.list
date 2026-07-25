@@ -25,7 +25,10 @@ host,aistudio.google.com,ai
 host,jules.google.com,ai
 host,makersuite.google.com,ai
 host,generativelanguage.googleapis.com,ai
-host-keyword,-pa,ai
+host-wildcard,*-pa*.googleapis.com,ai
+host-wildcard,*-pa*.google.com,ai
+host-wildcard,*-pa*.googleusercontent.com,ai
+host-wildcard,*-pa*.youtube.com,ai
 host,update.googleapis.com,ai
 host-suffix,openrouter.ai,ai
 host-suffix,requesty.ai,ai

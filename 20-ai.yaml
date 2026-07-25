@@ -29,7 +29,10 @@ payload:
   - DOMAIN,jules.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN-KEYWORD,-pa
+  - DOMAIN-WILDCARD,*-pa*.googleapis.com
+  - DOMAIN-WILDCARD,*-pa*.google.com
+  - DOMAIN-WILDCARD,*-pa*.googleusercontent.com
+  - DOMAIN-WILDCARD,*-pa*.youtube.com
   - DOMAIN,update.googleapis.com
 
   - DOMAIN-SUFFIX,openrouter.ai
