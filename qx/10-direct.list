@@ -10,6 +10,7 @@ host-suffix,smtcdns.com,direct
 host-suffix,scorecardresearch.com,direct
 host-suffix,jd.com,direct
 host-suffix,baidu.com,direct
+host-suffix,iqiyi.com,direct
 host-suffix,youku.com,direct
 host-suffix,163.com,direct
 host-suffix,proxy.ustclug.org,direct
