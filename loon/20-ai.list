@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,jules.google.com
