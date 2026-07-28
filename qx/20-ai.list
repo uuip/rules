@@ -8,6 +8,7 @@ host,junie.jetbrains.com,ai
 host-suffix,intellij.net,ai
 host-suffix,openai.com,ai
 host-suffix,chatgpt.com,ai
+host-suffix,chatgpt.site,ai
 host-suffix,oaistatic.com,ai
 host-suffix,oaiusercontent.com,ai
 host-suffix,openai.com.cdn.cloudflare.net,ai
