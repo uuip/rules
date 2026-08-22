@@ -19,3 +19,8 @@ host-keyword,alipay,direct
 host-suffix,qy.net,direct
 host,sub.kwk7thgc.com,direct
 host,api.linkcube.dev,direct
+ip-cidr,10.0.0.0/8,direct,no-resolve
+ip-cidr,172.16.0.0/12,direct,no-resolve
+ip-cidr,192.168.0.0/16,direct,no-resolve
+ip6-cidr,fc00::/7,direct,no-resolve
+ip6-cidr,fe80::/10,direct,no-resolve
