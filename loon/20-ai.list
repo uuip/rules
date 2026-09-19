@@ -28,11 +28,6 @@ DOMAIN,aistudio.google.com
 DOMAIN,jules.google.com
 DOMAIN,makersuite.google.com
 DOMAIN,generativelanguage.googleapis.com
-AND,((DOMAIN-KEYWORD,-pa),(DOMAIN-SUFFIX,googleapis.com))
-AND,((DOMAIN-KEYWORD,-pa),(DOMAIN-SUFFIX,google.com))
-AND,((DOMAIN-KEYWORD,-pa),(DOMAIN-SUFFIX,googleusercontent.com))
-AND,((DOMAIN-KEYWORD,-pa),(DOMAIN-SUFFIX,youtube.com))
-DOMAIN,update.googleapis.com
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,requesty.ai
 DOMAIN-SUFFIX,anthropic.com
