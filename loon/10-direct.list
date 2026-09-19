@@ -19,6 +19,16 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-SUFFIX,qy.net
 DOMAIN,sub.kwk7thgc.com
 DOMAIN,api.linkcube.dev
+DOMAIN,docker.1panel.live
+DOMAIN,proxy.vvvv.ee
+DOMAIN,free.hubfast.cn
+DOMAIN,docker.jiaxin.site
+DOMAIN,ghfast.top
+DOMAIN,gh-proxy.com
+DOMAIN,gh.zwy.one
+DOMAIN,ghproxy.cxkpro.top
+DOMAIN,ghproxy.net
+DOMAIN,ghcr.1ms.run
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve

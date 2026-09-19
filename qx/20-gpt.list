@@ -1,0 +1,14 @@
+host-suffix,openai.com,gpt
+host-suffix,chatgpt.com,gpt
+host-suffix,chatgpt.site,gpt
+host-suffix,oaistatic.com,gpt
+host-suffix,oaiusercontent.com,gpt
+host-suffix,openai.com.cdn.cloudflare.net,gpt
+host-suffix,openaiapi-site.azureedge.net,gpt
+host-suffix,openaicom.imgix.net,gpt
+host,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,gpt
+host,openaicomproductionae4b.blob.core.windows.net,gpt
+host,production-openaicom-storage.azureedge.net,gpt
+host-suffix,chatgpt.livekit.cloud,gpt
+host-suffix,host.livekit.cloud,gpt
+host-suffix,turn.livekit.cloud,gpt

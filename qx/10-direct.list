@@ -19,6 +19,16 @@ host-keyword,alipay,direct
 host-suffix,qy.net,direct
 host,sub.kwk7thgc.com,direct
 host,api.linkcube.dev,direct
+host,docker.1panel.live,direct
+host,proxy.vvvv.ee,direct
+host,free.hubfast.cn,direct
+host,docker.jiaxin.site,direct
+host,ghfast.top,direct
+host,gh-proxy.com,direct
+host,gh.zwy.one,direct
+host,ghproxy.cxkpro.top,direct
+host,ghproxy.net,direct
+host,ghcr.1ms.run,direct
 ip-cidr,10.0.0.0/8,direct,no-resolve
 ip-cidr,172.16.0.0/12,direct,no-resolve
 ip-cidr,192.168.0.0/16,direct,no-resolve
