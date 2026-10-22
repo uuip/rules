@@ -14,6 +14,7 @@ DOMAIN,aistudio.google.com
 DOMAIN,jules.google.com
 DOMAIN,makersuite.google.com
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN,chromewebstore.google.com
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,requesty.ai
 DOMAIN-SUFFIX,anthropic.com
@@ -27,7 +28,6 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,anthropic.com.cdn.cloudflare.net
 DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic-com.ghost.io
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN,browser-intake-datadoghq.com

@@ -14,6 +14,7 @@ host,aistudio.google.com,ai
 host,jules.google.com,ai
 host,makersuite.google.com,ai
 host,generativelanguage.googleapis.com,ai
+host,chromewebstore.google.com,ai
 host-suffix,openrouter.ai,ai
 host-suffix,requesty.ai,ai
 host-suffix,anthropic.com,ai
@@ -27,7 +28,6 @@ host,servd-anthropic-website.b-cdn.net,ai
 host,anthropic.com.cdn.cloudflare.net,ai
 host,anthropic.auth0.com,ai
 host,anthropic-com.ghost.io,ai
-host-suffix,sentry.io,ai
 host-suffix,statsigapi.net,ai
 host,browser-intake-us5-datadoghq.com,ai
 host,browser-intake-datadoghq.com,ai

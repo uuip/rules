@@ -17,6 +17,7 @@ payload:
   - DOMAIN,jules.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,chromewebstore.google.com
 #  - DOMAIN-WILDCARD,*-pa*.googleapis.com
 #  - DOMAIN-WILDCARD,*-pa*.google.com
 #  - DOMAIN-WILDCARD,*-pa*.googleusercontent.com
@@ -39,7 +40,6 @@ payload:
   - DOMAIN,anthropic.auth0.com
   - DOMAIN,anthropic-com.ghost.io
   # 监控和遥测
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN,browser-intake-datadoghq.com
