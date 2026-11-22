@@ -1,19 +1,25 @@
 payload:
-  - DOMAIN-SUFFIX,onfastspring.com
+  # 支付与软件订阅
   - DOMAIN-SUFFIX,fastspring.com
+  - DOMAIN-SUFFIX,onfastspring.com
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,payproglobal.com
-  - DOMAIN-SUFFIX,shareit.com
 
-  - DOMAIN-SUFFIX,paragon-software.com
+  # 桌面软件与文件传输
   - DOMAIN-SUFFIX,daisydiskapp.com
-  - DOMAIN-SUFFIX,tracker-software.com
-  - DOMAIN-SUFFIX,pdf-xchange.com
-  - DOMAIN-SUFFIX,faststonesoft.net
   - DOMAIN-SUFFIX,faststone.org
-  - DOMAIN-SUFFIX,vandyke.com
-  - DOMAIN-SUFFIX,navicat.com
+  - DOMAIN-SUFFIX,faststonesoft.net
   - DOMAIN-SUFFIX,imazing.com
   - DOMAIN-SUFFIX,macbartender.com
+  - DOMAIN-SUFFIX,navicat.com
+  - DOMAIN-SUFFIX,paragon-software.com
+  - DOMAIN-SUFFIX,pdf-xchange.com
   - DOMAIN,releases.eggerapps.at
-  - DOMAIN-KEYWORD,spotify
+  - DOMAIN-SUFFIX,shareit.com
+  - DOMAIN-SUFFIX,tracker-software.com
+  - DOMAIN-SUFFIX,vandyke.com
+
+  # 音乐流媒体
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.link
+  - DOMAIN-SUFFIX,spotifycdn.com

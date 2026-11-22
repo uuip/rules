@@ -1,50 +1,67 @@
 payload:
+  # Anthropic
+  - DOMAIN,anthropic-com.ghost.io
+  - DOMAIN,anthropic.auth0.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,anthropic.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,clau.de
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+
+  # Anthropic 监控与遥测
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,browser-intake-us5-datadoghq.com
+  - DOMAIN-SUFFIX,statsigapi.net
+
+  # Google
+  - DOMAIN-SUFFIX,google
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.co.jp
+  - DOMAIN-SUFFIX,google.com.sg
+  - DOMAIN-SUFFIX,google.com.tw
+  - DOMAIN-SUFFIX,google.dev
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,flowmusic.app
+  - DOMAIN-SUFFIX,gmail.com
+#  - DOMAIN-WILDCARD,*-pa.clients6.google.com
+#  - DOMAIN-WILDCARD,*-pa.google.com
+#  - DOMAIN-WILDCARD,*-pa.googleusercontent.com
+#  - DOMAIN,accounts.google.com
+#  - DOMAIN-SUFFIX,ai.google.dev
+#  - DOMAIN,aicode.clients6.google.com
+#  - DOMAIN,aistudio.google.com
+#  - DOMAIN-SUFFIX,antigravity.google
+#  - DOMAIN-SUFFIX,antigravity.google.com
+#  - DOMAIN,auth.cloud.google
+#  - DOMAIN,chromewebstore.google.com
+#  - DOMAIN,flow.google.com
+#  - DOMAIN-SUFFIX,gemini.google.com
+#  - DOMAIN-SUFFIX,googleapis.com
+#  - DOMAIN,jules.google.com
+#  - DOMAIN,labs.google
+#  - DOMAIN,makersuite.google.com
+#  - DOMAIN,notebook.google
+#  - DOMAIN,notebook.google.com
+#  - DOMAIN-SUFFIX,notebooklm.google
+#  - DOMAIN-SUFFIX,notebooklm.google.com
+
+  # JetBrains
+  - DOMAIN,account.jetbrains.com
+  - DOMAIN,frameworks.jetbrains.com
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN,junie.jetbrains.com
+
+  # Microsoft
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,clarity.ms
 
-  - DOMAIN-SUFFIX,jetbrains.ai
-  - DOMAIN,frameworks.jetbrains.com
-  - DOMAIN,account.jetbrains.com
-  - DOMAIN,junie.jetbrains.com
-  - DOMAIN-SUFFIX,intellij.net
-
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,notebooklm.google.com
-  - DOMAIN-SUFFIX,notebooklm.google
-  - DOMAIN,notebook.google
-  - DOMAIN,notebook.google.com
-  - DOMAIN,flow.google.com
-  - DOMAIN,labs.google
-  - DOMAIN-SUFFIX,ai.google.dev
-  - DOMAIN,aistudio.google.com
-  - DOMAIN,jules.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,aicode.googleapis.com
-  - DOMAIN,chromewebstore.google.com
-  - DOMAIN-WILDCARD,*-pa*.googleapis.com
-  - DOMAIN-WILDCARD,*-pa*.google.com
-  - DOMAIN-WILDCARD,*-pa*.googleusercontent.com
-
+  # API 聚合服务
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,requesty.ai
-
-  # 核心域名
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,claude.com
-  - DOMAIN-SUFFIX,clau.de
-  - DOMAIN-SUFFIX,claudemcpclient.com
-  - DOMAIN-SUFFIX,claudemcpcontent.com
-  - DOMAIN-SUFFIX,claudeusercontent.com
-  # CDN 和静态资源
-  - DOMAIN,servd-anthropic-website.b-cdn.net
-  - DOMAIN,anthropic.com.cdn.cloudflare.net
-  # 认证 / 内容
-  - DOMAIN,anthropic.auth0.com
-  - DOMAIN,anthropic-com.ghost.io
-  # 监控和遥测
-  - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN,browser-intake-us5-datadoghq.com
-  - DOMAIN,browser-intake-datadoghq.com

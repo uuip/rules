@@ -1,10 +1,13 @@
 payload:
+  # 国际广播
   - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,voanews.com
+
+  # 新闻媒体
   - DOMAIN-SUFFIX,chinadigitaltimes.net
   - DOMAIN-SUFFIX,epochtimes.com
-  - DOMAIN-SUFFIX,dwnews.com
-  - DOMAIN-SUFFIX,dwnews.net
-  - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,wenxuecity.com
+
+  # 社区
+  - DOMAIN-SUFFIX,pincong.rocks

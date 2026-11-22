@@ -1,10 +1,13 @@
 payload:
+  # 国际广播
   - +.rfa.org
   - +.voachinese.com
   - +.voanews.com
+
+  # 新闻媒体
   - +.chinadigitaltimes.net
   - +.epochtimes.com
-  - +.dwnews.com
-  - +.dwnews.net
-  - +.pincong.rocks
   - +.wenxuecity.com
+
+  # 社区
+  - +.pincong.rocks

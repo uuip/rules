@@ -1,18 +1,24 @@
 payload:
-  - DOMAIN-KEYWORD,ipfs
-  - DOMAIN-KEYWORD,okx.com
-  - DOMAIN-SUFFIX,binance.org
+  # Binance 与 BNB Chain
+  - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,bscscan.com
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,bnbchain.org
   - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-SUFFIX,ethereum.org
+  - DOMAIN-SUFFIX,bscscan.com
+
+  # 其他交易平台
   - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,okcoin.com
+  - DOMAIN-SUFFIX,okx.com
+
+  # 区块链
+  - DOMAIN-SUFFIX,ethereum.org
+
+  # 加密资产行情
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,cryptocompare.com
-  - DOMAIN-SUFFIX,gateway.originprotocol.com
-  - DOMAIN-SUFFIX,gateway.serph.network
+
+  # 深度链接
   - DOMAIN-SUFFIX,branch.io
-  - DOMAIN-SUFFIX,okcoin.com

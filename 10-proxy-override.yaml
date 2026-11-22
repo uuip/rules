@@ -1,3 +1,6 @@
 payload:
+  # Anthropic 下载
   - DOMAIN,downloads.claude.ai
+
+  # OpenAI 静态资源
   - DOMAIN,persistent.oaistatic.com
